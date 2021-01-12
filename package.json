@@ -1,0 +1,19 @@
+{
+  "name": "guess-the-song",
+  "version": "1.0.0",
+  "description": "Guess the song! is an online real-time chat-based game that enables players to create rooms and invite friends to play a game where they can guess which song is being played.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayzac/guess-the-song.git"
+  },
+  "author": "Nayzac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nayzac/guess-the-song/issues"
+  },
+  "homepage": "https://github.com/Nayzac/guess-the-song#readme"
+}
